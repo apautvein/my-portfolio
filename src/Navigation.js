@@ -34,7 +34,7 @@ function Navigation() {
                     </a>
                 </div>
                 <div>
-                    <a href="#" class="inline-block text-sm px-4 py-2 leading-none border rounded text-white border-white hover:border-transparent hover:text-teal-500 hover:bg-white mt-4 lg:mt-0">Resume</a>
+                    <a href="https://docs.google.com/document/d/1Yt5Uu35NvwpGyJxv7vuJgNKpae3JQI3ovtzzu-J_ukA/edit?usp=sharing" class="inline-block text-sm px-4 py-2 leading-none border rounded text-white border-white hover:border-transparent hover:text-teal-500 hover:bg-white mt-4 lg:mt-0">Resume</a>
                 </div>
             </div>
         </nav>
